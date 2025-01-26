@@ -9,6 +9,7 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Autores](#autores)
 - [Licencia](#licencia)
+- [Insignia](#insignia)
 
 ## Descripción del Proyecto
 
@@ -45,4 +46,7 @@ En proceso
 
 | Leonardo Agustin Docimo |
 | ----------------------- |
+
+## Insignia
+![17378536090273264539733020815621](https://github.com/user-attachments/assets/eda3c75f-daa3-4627-b413-4149aff4bfa1)
 
